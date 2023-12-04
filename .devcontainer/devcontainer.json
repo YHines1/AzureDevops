@@ -1,4 +1,4 @@
 {
     "workspaceFolder": "azdo",
-    "postCreateCommand": "git clone https://ALCGL-INFRA@dev.azure.com/ALCGL-INFRA/terraform-modules/_git/terraform-alcority-single-app-service azdo"
+    "postCreateCommand": "git clone https://ALCGL-INFRA@dev.azure.com/ALCGL-INFRA/terraform-modules/_git/terraform-alcority-single-app-service"
 }
